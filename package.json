@@ -1,17 +1,14 @@
 {
-  "name": "detectizr",
+  "name": "@regru/detectizr",
   "title": "Detectizr",
   "description": "Detectizr is a Modernizr extension to detect device, browser, operating system and screen.",
   "version": "2.2.0",
   "main": "dist/detectizr.js",
   "homepage": "https://github.com/barisaydinoglu/Detectizr",
-  "author": {
-    "name": "Baris Aydinoglu",
-    "url": "http://baris.aydinoglu.info/"
-  },
+  "author": "Baris Aydinoglu (http://baris.aydinoglu.info/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/barisaydinoglu/Detectizr.git"
+    "url": "git+https://github.com/barisaydinoglu/Detectizr.git"
   },
   "keywords": [
     "detect",
@@ -33,7 +30,6 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
   "devDependencies": {
     "grunt": "0.4.5",
     "grunt-cli": "0.1.13",
